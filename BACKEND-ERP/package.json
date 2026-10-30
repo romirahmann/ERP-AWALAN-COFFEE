@@ -1,0 +1,22 @@
+{
+  "name": "erp-awalan",
+  "version": "1.0.0",
+  "description": "ERP AWALAN COFFEE",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romirahmann/ERP-AWALAN-COFFEE.git"
+  },
+  "keywords": [
+    "ERP"
+  ],
+  "author": "ROMI RAHMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romirahmann/ERP-AWALAN-COFFEE/issues"
+  },
+  "homepage": "https://github.com/romirahmann/ERP-AWALAN-COFFEE#readme"
+}
